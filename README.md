@@ -1,4 +1,5 @@
-<img class="status-badge-image" src="https://dev.azure.com/kaeloran/studyDevops/_apis/build/status/kaeloran.pipeline-netcore?branchName=main" alt="Example status badge for this pipeline.">
+[![Build Status](https://dev.azure.com/kaeloran/studyDevops/_apis/build/status/kaeloran.pipeline-netcore?branchName=main)](https://dev.azure.com/kaeloran/studyDevops/_build/latest?definitionId=5&branchName=main)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
